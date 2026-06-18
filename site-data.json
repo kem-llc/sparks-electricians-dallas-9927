@@ -1,0 +1,325 @@
+{
+  "business": {
+    "name": "Sparks Electricians",
+    "shortName": "Sparks",
+    "tagline": "Trusted Electrical Experts Serving Dallas & Beyond",
+    "niche": "Electrician",
+    "phone": "(469) 914-9927",
+    "address": "120 Turtle Creek Blvd, Dallas, TX 75207",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 7am-7pm, Sat 8am-4pm, Sun Closed",
+    "ctaLabel": "Get Free Estimate"
+  },
+  "seo": {
+    "title": "Best Electricians in Dallas, TX | Sparks Electricians | 4.8★",
+    "description": "Sparks Electricians: Dallas's top-rated electrical contractor. 4.8★ from 500+ reviews. Expert electrical repair, installation, panel upgrades & more. Call (469) 914-9927 for fast, reliable service."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas's Premier Electrical Contractor",
+      "headline": "Reliable Electrical Solutions for Your Home & Business",
+      "subheadline": "With over 500 5-star reviews and a 4.8 rating, we deliver safe, efficient, and affordable electrical services across Dallas.",
+      "primaryCta": "Schedule Service",
+      "secondaryCta": "Call (469) 914-9927"
+    },
+    "stats": [
+      {
+        "value": "500+",
+        "label": "5-Star Reviews"
+      },
+      {
+        "value": "4.8",
+        "label": "Average Rating"
+      },
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "100%",
+        "label": "Customer Satisfaction"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Residential Electrical Services",
+        "title": "Complete Home Electrical Care",
+        "body": "From flickering lights to full rewiring, our licensed electricians handle all residential electrical needs. We prioritize safety and efficiency, ensuring your home's electrical system is up to code and running smoothly.",
+        "bullets": [
+          "Emergency repairs & troubleshooting",
+          "Panel upgrades & surge protection",
+          "Lighting design & installation",
+          "Outlet & switch replacement"
+        ],
+        "reverse": false,
+        "cardLabel": "Trusted by Homeowners",
+        "cardTitle": "Peace of Mind Guaranteed",
+        "cardBody": "Every job comes with a 100% satisfaction guarantee. Our transparent pricing and upfront quotes mean no surprises."
+      },
+      {
+        "eyebrow": "Commercial Electrical Solutions",
+        "title": "Power Your Business with Confidence",
+        "body": "Minimize downtime with our commercial electrical services. We work around your schedule to provide fast, code-compliant solutions for offices, retail spaces, and industrial facilities.",
+        "bullets": [
+          "New construction wiring",
+          "Data cabling & network setup",
+          "Energy-efficient lighting retrofits",
+          "Emergency generator installation"
+        ],
+        "reverse": true,
+        "cardLabel": "For Businesses",
+        "cardTitle": "Reliable & Scalable",
+        "cardBody": "We understand the demands of your business. Our team ensures minimal disruption and maximum uptime."
+      }
+    ],
+    "whyTitle": "Why Choose Sparks Electricians?",
+    "whyChooseUs": [
+      {
+        "title": "Licensed & Insured Pros",
+        "description": "Every technician is fully licensed, bonded, and insured. Your safety is our top priority."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "No hidden fees. We provide detailed upfront quotes so you know exactly what to expect."
+      },
+      {
+        "title": "Same-Day Service",
+        "description": "Need help fast? We offer same-day appointments for most electrical emergencies."
+      },
+      {
+        "title": "100% Satisfaction Guarantee",
+        "description": "If you're not happy, we'll make it right. Our reputation depends on your trust."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Sparks Electricians saved our family reunion! They fixed a major outage in under an hour. Professional and friendly.",
+        "author": "Maria G.",
+        "role": "Homeowner, Dallas"
+      },
+      {
+        "quote": "We hired them for a full office rewiring. They finished ahead of schedule and under budget. Highly recommend.",
+        "author": "James T.",
+        "role": "Business Owner, Dallas"
+      },
+      {
+        "quote": "The team installed a new panel and surge protector. They explained everything clearly. Great service!",
+        "author": "Linda P.",
+        "role": "Homeowner, Dallas"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Get Started?",
+      "subheadline": "Contact us today for a free estimate and experience the Sparks difference.",
+      "primaryCta": "Book Online",
+      "secondaryCta": "Call (469) 914-9927"
+    }
+  },
+  "servicesPage": {
+    "intro": "From minor repairs to major installations, Sparks Electricians offers comprehensive electrical services for residential and commercial clients in Dallas. Our team of licensed professionals is dedicated to providing safe, reliable, and affordable solutions."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Electrical Repairs & Troubleshooting",
+      "shortDescription": "Fast, reliable fixes for all electrical issues, from flickering lights to tripping breakers.",
+      "longDescription": "Our experienced electricians diagnose and repair any electrical problem quickly and safely. We use advanced testing equipment to pinpoint issues and provide lasting solutions, ensuring your home or business is safe and fully functional.",
+      "benefits": [
+        "Quick response time – same-day service available",
+        "Thorough diagnostics to prevent recurring issues",
+        "Upfront pricing with no hidden fees"
+      ],
+      "process": [
+        {
+          "title": "Diagnosis",
+          "description": "We inspect and test your system to identify the root cause."
+        },
+        {
+          "title": "Repair",
+          "description": "Our licensed electricians perform the repair using top-quality parts."
+        },
+        {
+          "title": "Testing",
+          "description": "We test everything to ensure it works perfectly and safely."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How quickly can you respond to an emergency?",
+          "answer": "We offer same-day service for most emergencies. Call us and we'll dispatch a technician immediately."
+        },
+        {
+          "question": "Do you charge for estimates?",
+          "answer": "No, we provide free, no-obligation estimates for all repairs."
+        }
+      ],
+      "slug": "electrical-repairs-troubleshooting"
+    },
+    {
+      "icon": "02",
+      "title": "Panel Upgrades & Electrical Service",
+      "shortDescription": "Upgrade your electrical panel for increased safety, capacity, and efficiency.",
+      "longDescription": "Older panels can be a fire hazard and limit your electrical usage. Our panel upgrade service brings your home up to modern standards, supporting new appliances, electronics, and HVAC systems. We handle everything from 100-amp to 400-amp upgrades.",
+      "benefits": [
+        "Increased safety with modern breakers and wiring",
+        "Supports additional circuits for renovations or additions",
+        "Energy-efficient designs that may lower utility bills"
+      ],
+      "process": [
+        {
+          "title": "Assessment",
+          "description": "We evaluate your current panel and load requirements."
+        },
+        {
+          "title": "Permitting",
+          "description": "We handle all permits and code compliance."
+        },
+        {
+          "title": "Installation",
+          "description": "Our team installs the new panel with minimal downtime."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does a panel upgrade take?",
+          "answer": "Most upgrades are completed in 4-8 hours, depending on complexity."
+        },
+        {
+          "question": "Will I need to upgrade if I install a Tesla charger?",
+          "answer": "Possibly. We can assess your current panel and recommend the best solution."
+        }
+      ],
+      "slug": "panel-upgrades-electrical-service"
+    },
+    {
+      "icon": "03",
+      "title": "Lighting Design & Installation",
+      "shortDescription": "Transform your space with custom indoor and outdoor lighting solutions.",
+      "longDescription": "Enhance the ambiance, security, and value of your property with professional lighting design. We offer energy-efficient LED options, smart controls, and landscape lighting. Our designers work with you to create the perfect lighting plan for your needs.",
+      "benefits": [
+        "Custom designs tailored to your style and budget",
+        "Energy savings with LED and smart controls",
+        "Increased curb appeal and home security"
+      ],
+      "process": [
+        {
+          "title": "Consultation",
+          "description": "We discuss your vision and assess the space."
+        },
+        {
+          "title": "Design",
+          "description": "Our team creates a detailed lighting plan."
+        },
+        {
+          "title": "Installation",
+          "description": "Professional installation with clean finish and testing."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you install smart lighting systems?",
+          "answer": "Yes, we install and configure all major smart lighting brands like Lutron, Philips Hue, and more."
+        },
+        {
+          "question": "Do you offer landscape lighting?",
+          "answer": "Absolutely. We design and install low-voltage landscape lighting for gardens, pathways, and patios."
+        }
+      ],
+      "slug": "lighting-design-installation"
+    },
+    {
+      "icon": "04",
+      "title": "Wiring & Rewiring Services",
+      "shortDescription": "Safe, code-compliant wiring for new construction, renovations, and old homes.",
+      "longDescription": "Whether you're building new, remodeling, or dealing with outdated wiring, our team provides expert wiring services. We ensure all work meets the latest electrical codes and standards, giving you peace of mind and a safe environment.",
+      "benefits": [
+        "Code-compliant work with all permits handled",
+        "Eliminates fire hazards from old or faulty wiring",
+        "Supports modern electrical loads and technology"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We inspect existing wiring and assess needs."
+        },
+        {
+          "title": "Planning",
+          "description": "We create a detailed plan for routing and materials."
+        },
+        {
+          "title": "Execution",
+          "description": "Our team rewires efficiently with minimal disruption."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I know if my home needs rewiring?",
+          "answer": "Signs include frequent breaker trips, flickering lights, or outlets that feel warm. We offer free inspections."
+        },
+        {
+          "question": "Do you work on historic homes?",
+          "answer": "Yes, we have experience with older homes and can preserve aesthetics while updating wiring."
+        }
+      ],
+      "slug": "wiring-rewiring-services"
+    }
+  ],
+  "about": {
+    "headline": "Your Trusted Dallas Electrician Since 2008",
+    "mission": "To provide safe, reliable, and affordable electrical services that exceed customer expectations, while maintaining the highest standards of professionalism and integrity.",
+    "story": [
+      "Sparks Electricians was founded in 2008 by master electrician John Sparks, who saw a need for honest, high-quality electrical work in Dallas. Starting with just a truck and a dream, John built a reputation for reliability and transparency. Today, our team of licensed professionals serves hundreds of homes and businesses across the metroplex.",
+      "We believe in treating every customer like family. That means showing up on time, communicating clearly, and standing behind our work. Our 4.8-star rating and hundreds of 5-star reviews reflect our commitment to excellence. Whether it's a simple repair or a complex installation, we bring the same dedication to every job."
+    ],
+    "highlight": {
+      "stat": "500+",
+      "label": "5-Star Reviews"
+    },
+    "coreValues": [
+      {
+        "title": "Safety First",
+        "description": "We never compromise on safety. Every job is performed to code with rigorous testing."
+      },
+      {
+        "title": "Integrity",
+        "description": "Honest advice, transparent pricing, and no shortcuts. We do what's right."
+      },
+      {
+        "title": "Excellence",
+        "description": "Continuous training and top-quality materials ensure we deliver the best results."
+      },
+      {
+        "title": "Community",
+        "description": "We're proud to serve Dallas and give back through local sponsorships and free safety inspections."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch with Sparks Electricians",
+    "subheadline": "Ready to start your project? Call us or fill out the form for a free estimate.",
+    "primaryCta": "Call (469) 914-9927",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Fort Worth",
+      "Arlington",
+      "Plano",
+      "Garland",
+      "Irving",
+      "Richardson",
+      "Mesquite",
+      "Carrollton",
+      "Frisco"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.8,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Electrician",
+    "generated_by": "deepseek"
+  },
+  "phone_href": "tel:4699149927",
+  "current_year": 2026
+}
